@@ -1,0 +1,10 @@
+{
+    "bid": 2,
+    "title": "점프 투 장고",
+    "author": "박응용",
+    "category": "프로그래밍",
+    "pages": 349,
+    "price": 19800,
+    "published_date": "2020-01-30",
+    "description": "파이썬 입문자도 2주만에 만들어 운영할 수 있는 게시판 서비스"
+}
